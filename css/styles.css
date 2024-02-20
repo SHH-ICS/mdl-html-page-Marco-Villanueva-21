@@ -4,3 +4,9 @@
   background: #000;
   opacity: 0.001;
 }
+
+#hello-world {
+  color: red;
+  font-size: large;
+  text-align: center;
+}
